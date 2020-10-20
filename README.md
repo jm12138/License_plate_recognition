@@ -8,5 +8,5 @@
 ```shell
 git clone https://github.com/jm12138/License_plate_recognition.git
 cd License_plate_recognition
-python tools/infer/predict_system.py --use_gpu False --use_tensorrt False --enable_mkldnn True
+python tools/infer/predict_system.py --use_gpu False --use_tensorrt False --enable_mkldnn False
 ```
