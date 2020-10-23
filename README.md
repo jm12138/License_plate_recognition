@@ -16,9 +16,7 @@
 * [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)是PaddlePaddle开源的一个OCR算法套件，其中包含了各种主流的检测和识别算法，如DB、CRNN等等
 
 # 效果演示
-* 运行平台为Jetson AGX Xavier：
-<iframe height=498 width=510 src='https://player.youku.com/embed/XNDg4Mzc1MDAxNg==' frameborder=0 'allowfullscreen'></iframe>
-
+* 运行平台为Jetson AGX Xavier：[演示视频](https://player.youku.com/embed/XNDg4Mzc1MDAxNg==)
 
 # 快速使用
 * 使用下面的代码启动车牌识别系统
