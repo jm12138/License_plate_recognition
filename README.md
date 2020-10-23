@@ -12,12 +12,18 @@
 
 ![流程图](https://ai-studio-static-online.cdn.bcebos.com/35a3dab32ac948549de41afba7b51a5770d3f872d60b437d891f359a5cef8052)
 
-* [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)是最近Paddle开源的一个OCR算法套件，其中包含了各种主流的检测和识别算法，如DB、CRNN等等，不仅效果出色，而且使用上也非常方便
-* 本次就使用PaddleOCR来开发一个车牌识别算法
+* 本项目就是基于PaddleOCR套件开发
+* [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)是PaddlePaddle开源的一个OCR算法套件，其中包含了各种主流的检测和识别算法，如DB、CRNN等等
+
+# 效果演示
+* 运行平台为Jetson AGX Xavier：
+<iframe height=498 width=510 src='https://player.youku.com/embed/XNDg4Mzc1MDAxNg==' frameborder=0 'allowfullscreen'></iframe>
+
 
 # 快速使用
 * 使用下面的代码启动车牌识别系统
-* 可根据运行平台设置运行的参数
+* 可根据运行平台设置运行命令的参数
+* 更多可选的参数详见[tools/infer/utility.py](https://github.com/jm12138/License_plate_recognition/blob/main/tools/infer/utility.py)
 ```shell
 git clone https://github.com/jm12138/License_plate_recognition.git
 cd License_plate_recognition
