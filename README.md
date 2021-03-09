@@ -2,6 +2,9 @@
 * A license plate recognition system based on PaddleOCR.
 * 一个基于PaddleOCR套件开发的车牌识别系统
 
+# 更新
+更新新版本，提高模型识别精度：[【链接】](https://aistudio.baidu.com/aistudio/projectdetail/1603924)
+
 # 项目简介
 * 车牌识别即识别车牌上的文字信息，属于光学字符识别(OCR)的一项子任务
 * 车牌识别技术目前已广泛应用于例如停车场、收费站等等交通设施中，提供高效便捷的车辆认证的服务
