@@ -2,3 +2,4 @@ shapely
 imgaug
 pyclipper
 lmdb
+桨paddle
