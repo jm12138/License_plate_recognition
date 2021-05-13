@@ -1,4 +1,5 @@
 shapely
 imgaug
 pyclipper
+paddlepaddle
 lmdb
